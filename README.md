@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Daniel Martinez!
-#### Attending Software Development bootcamp while I build projects and practice algorithms.
+#### Attending Coding Dojo's Immersive FT - Software Development bootcamp while I build personal projects and practice algorithms.
 #### I practice algorithms on Code War, my current standing: <img src="https://www.codewars.com/users/daniel-mar/badges/small">
 
 <!--
