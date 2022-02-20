@@ -1,5 +1,4 @@
-### Hi there 👋 <img src="https://www.codewars.com/users/daniel-mar/badges/small">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋 I'm Daniel Martinez, if you practice algorithms on CodeWars, here is mine! This is <img src="https://www.codewars.com/users/daniel-mar/badges/small">
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
