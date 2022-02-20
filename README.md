@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Daniel Martinez, if you practice algorithms on CodeWars, here is mine! <img src="https://www.codewars.com/users/daniel-mar/badges/small">
+### Hi there 👋 I'm Daniel Martinez!
+#### I practice algorithms on Code War, my current standing: <img src="https://www.codewars.com/users/daniel-mar/badges/small">
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
