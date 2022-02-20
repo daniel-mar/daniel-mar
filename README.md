@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Daniel Martinez!
 #### Attending Coding Dojo's Immersive FT - Software Development bootcamp while I build personal projects and practice algorithms.
 #### I practice algorithms on Code War, my current standing is <img src="https://www.codewars.com/users/daniel-mar/badges/small">
-#### **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mar&layout=compact)](https://github.com/daniel-mar/github-readme-stats)**
+##### My languages stats used on Github
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mar&layout=compact)](https://github.com/daniel-mar/github-readme-stats)**
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
