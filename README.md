@@ -4,6 +4,10 @@
 ##### Here are my current languages stats used on Github!
 **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mar&layout=compact)](https://github.com/daniel-mar/github-readme-stats)**
 
+Check out a few of my project websites hosted on Github pages! 
+##### https://daniel-mar.github.io/github-blocks/index.html
+##### https://daniel-mar.github.io/unifeed-blog-page/index.html
+##### https://daniel-mar.github.io/countdown-timer/index.html
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
