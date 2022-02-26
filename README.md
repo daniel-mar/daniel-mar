@@ -9,6 +9,7 @@
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 ##### https://daniel-mar.github.io/countdown-timer/index.html
 ##### https://daniel-mar.github.io/button-click/index.html
+###### hover over to play video and hover out to pause video 
 ##### https://daniel-mar.github.io/video-preview/index.html
 
 <!--
