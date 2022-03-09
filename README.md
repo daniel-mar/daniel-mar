@@ -2,11 +2,10 @@
 #### Attending Coding Dojo's Immersive FT - Software Development bootcamp while I build personal projects and practice algorithms.
 #### I practice algorithms with JavaScript on my own or using sites such as: 
 #### CodeWars, my current standing <img src="https://www.codewars.com/users/daniel-mar/badges/small">
-##### Learning and expanding into Python
 
-### I am practicing and updating the different 
+### Currently immersing myself in Python 
 
-### Check out my project websites hosted on Github pages! 
+### Check out a few websites I built hosted on Github pages! 
 ##### https://daniel-mar.github.io/github-blocks/index.html
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 ##### https://daniel-mar.github.io/countdown-timer/index.html
