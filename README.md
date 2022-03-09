@@ -6,10 +6,11 @@
 ### Currently immersing myself in Python 
 
 ### Check out a few websites I built hosted on Github pages! 
-##### https://daniel-mar.github.io/github-blocks/index.html
-##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 ##### Countdown Timer - HTML, CSS, JavaScript: Page uses JavaScript to present the difference in time for my bootcamp graduation and current date.
 ##### https://daniel-mar.github.io/countdown-timer/index.html
+##### Recreation! HTML, CSS: Build out a website using a UI Template. Practice building out a front-end design from an idea to a website!
+##### https://daniel-mar.github.io/unifeed-blog-page/index.html
+
 ##### https://daniel-mar.github.io/button-click/index.html
 #### Website goals: Hover over to play video and hover out to pause video 
 ##### https://daniel-mar.github.io/video-preview/index.html
