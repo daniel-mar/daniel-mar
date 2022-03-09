@@ -1,13 +1,9 @@
 ### Hello!👋 I'm Daniel Martinez. A painter turned self taught full stack developer
 #### Attending Coding Dojo's Immersive Software Development bootcamp to be more efficient at learning new stacks and become an overall better developer. I am passionate about personal growth and continued learning!  
-#### I practice algorithms with JavaScript using prompts or sites such as CodeWars!
-#### My current standing <img src="https://www.codewars.com/users/daniel-mar/badges/small">
-
-### Currently immersing myself in Python 
+#### I practice algorithms with JavaScript using prompts and sites such as CodeWars!
 
 ### Check out a few websites I built hosted on Github pages! 
-##### **Countdown Timer**
-###### - HTML, CSS, JavaScript: Page uses JavaScript to present the difference in time for my bootcamp graduation and current date.
+__Countdown Timer__ - HTML, CSS, JavaScript: Page uses JavaScript to present the difference in time for my bootcamp graduation and current date.
 ##### https://daniel-mar.github.io/countdown-timer/index.html
 ##### **Recreation** HTML, CSS: Build out a website using a UI Template. Practice building out a front-end design from an idea to a website!
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
