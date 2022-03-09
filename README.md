@@ -13,7 +13,7 @@ Project goal: Manipulate and update the HTML elements, practice with algorithms 
 
 ### Blogpage Design
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
-Project goal: Provided a UI Template, recreate the design using vanilla HTML, CSS
+Project goal: Provided a UI desktop template, recreate the design using vanilla HTML, CSS
 ##### HTML, CSS: Practiced building out a front-end design from an idea to a website! 
 
 ### Prototyping JavaScript  
