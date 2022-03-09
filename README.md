@@ -3,8 +3,8 @@ Attending Coding Dojo's Immersive Software Development bootcamp to be more effic
 
 #### Here you'll find a collection of projects and algorithm practice. I practice algorithms with JavaScript using prompts and sites such as CodeWars!
 
-## Technical Projects
-### Frontend
+# Technical Projects
+## Frontend Development
 
 Countdown Timer
 ##### https://daniel-mar.github.io/countdown-timer/index.html
@@ -18,7 +18,7 @@ HTML, CSS: Build out a website using a UI Template. Practice building out a fron
 ##### https://daniel-mar.github.io/video-preview/index.html
 HTML, CSS, JavaScript: Testing video functionality: Hover over video to play video and hover out to pause video
 
-### Python Fullstack
+## Python Fullstack Development
 ###### Part Manager: Repository
 ###### https://github.com/daniel-mar/part_manager_oop
 Project goal: To learn about databases, practice full stack development and what to consider when storing web scraped data.
