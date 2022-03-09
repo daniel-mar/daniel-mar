@@ -5,8 +5,7 @@ Attending Coding Dojo's Immersive Software Development bootcamp to become an ove
 
 - ⚡ Fun fact: I get a kick out of finding more efficient ways in doing regular things. Especially when I garden! 
 
-# Technical Projects
-## Frontend Development
+# Frontend Development
 
 ### Graduation Countdown Timer
 ##### https://daniel-mar.github.io/countdown-timer/index.html
@@ -23,7 +22,7 @@ Attending Coding Dojo's Immersive Software Development bootcamp to become an ove
 - Project goal: Better understand how to create a draft website in order to practice a functionality.
 - HTML, CSS, JavaScript: Testing video functionality: Hover over video to play video and hover out to pause video.
 
-## Python Fullstack Development
+# Python Fullstack Development
 
 ### Part Manager: Repository
 ###### https://github.com/daniel-mar/part_manager_oop
