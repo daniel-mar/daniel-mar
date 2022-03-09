@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Daniel Martinez!
 #### Attending Coding Dojo's Immersive FT - Software Development bootcamp while I build personal projects and practice algorithms.
-#### I practice algorithms in JavaScript on my own or using sites such as: 
+#### I practice algorithms with JavaScript on my own or using sites such as: 
 #### CodeWars, my current standing <img src="https://www.codewars.com/users/daniel-mar/badges/small">
-##### Here are my current project languages stats used on Github!
-**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mar&layout=compact)](https://github.com/daniel-mar/github-readme-stats)**
+##### Learning and expanding into Python
+
+### I am practicing and updating the different 
 
 ### Check out my project websites hosted on Github pages! 
 ##### https://daniel-mar.github.io/github-blocks/index.html
