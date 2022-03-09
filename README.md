@@ -1,7 +1,7 @@
 ### Hello!👋 I'm Daniel Martinez. A painter turned self taught full stack developer
 #### Attending Coding Dojo's Immersive Software Development bootcamp to be more efficient at learning new stacks and become an overall better developer. I am passionate about personal growth and continued learning!  
-#### I practice algorithms with JavaScript using prompts or sites such as: 
-#### CodeWars, my current standing <img src="https://www.codewars.com/users/daniel-mar/badges/small">
+#### I practice algorithms with JavaScript using prompts or sites such as CodeWars!
+#### My current standing <img src="https://www.codewars.com/users/daniel-mar/badges/small">
 
 ### Currently immersing myself in Python 
 
