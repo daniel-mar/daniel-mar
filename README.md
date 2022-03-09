@@ -11,12 +11,12 @@ Attending Coding Dojo's Immersive Software Development bootcamp to become an ove
 ### Graduation Countdown Timer
 - Project goal: Manipulate and update the HTML elements, practice with algorithms to track current time and a desired time for countdown. 
 ##### https://daniel-mar.github.io/countdown-timer/index.html
-##### HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
+- HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
 
 ### Blogpage Design
-Project goal: Provided a UI desktop template, recreate the design using vanilla HTML, CSS
+- Project goal: Provided a UI desktop template, recreate the design using vanilla HTML, CSS
+- HTML, CSS: Practiced building out a front-end design from an idea to a website! 
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
-##### HTML, CSS: Practiced building out a front-end design from an idea to a website! 
 
 ### Prototyping JavaScript
 Project goal: Better understand how to create a draft website in order to practice a functionality
