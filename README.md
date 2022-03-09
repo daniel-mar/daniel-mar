@@ -9,7 +9,7 @@ Attending Coding Dojo's Immersive Software Development bootcamp to become an ove
 ## Frontend Development
 
 ### Graduation Countdown Timer
-Project goal: Manipulate and update the HTML elements, practice with algorithms to track current time and a desired time for countdown. 
+- Project goal: Manipulate and update the HTML elements, practice with algorithms to track current time and a desired time for countdown. 
 ##### https://daniel-mar.github.io/countdown-timer/index.html
 ##### HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
 
