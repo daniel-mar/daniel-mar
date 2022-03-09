@@ -3,7 +3,8 @@
 #### I practice algorithms with JavaScript using prompts and sites such as CodeWars!
 
 ### Check out a few websites I built hosted on Github pages!
-**Countdown Timer** - HTML, CSS, JavaScript: Page uses JavaScript to present the difference in time for my bootcamp graduation and current date.
+Countdown Timer
+HTML, CSS, JavaScript: Page uses JavaScript to present the difference in time for my bootcamp graduation and current date.
 ##### https://daniel-mar.github.io/countdown-timer/index.html
 ##### **Recreation** HTML, CSS: Build out a website using a UI Template. Practice building out a front-end design from an idea to a website!
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
