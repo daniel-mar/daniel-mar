@@ -11,12 +11,12 @@ Attending Coding Dojo's Immersive Software Development bootcamp to be more effic
 Project goal: Manipulate and update the HTML elements, practice with algorithms to track current time and a desired time for countdown. 
 ##### HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
 
-### Recreation
+### Blogpage Design
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 Project goal: Provided a UI Template, recreate the design using vanilla HTML, CSS
 ##### HTML, CSS: Practiced building out a front-end design from an idea to a website! 
 
-### Prototyping  
+### Prototyping JavaScript  
 ##### https://daniel-mar.github.io/video-preview/index.html
 Project goal: Better understand how to create a draft website in order to practice a functionality
 HTML, CSS, JavaScript: Testing video functionality: Hover over video to play video and hover out to pause video
