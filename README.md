@@ -29,13 +29,13 @@ Project goal: To learn about databases, practice full stack development and what
 ##### Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
 
 ### Dynamic YouTube Scraper: Repository
-###### https://github.com/daniel-mar/youtube_popularity_scrape
 Project goal: To traverse YouTube channels based on my desired output of video views, date posted and title.
+###### https://github.com/daniel-mar/youtube_popularity_scrape
 ##### Automate and collect data to visualize and discover the channel's video trends to lead to further analysis.
 
 ### Premiere League Scraper: Repository
-###### https://github.com/daniel-mar/prem_scrape
 Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
+###### https://github.com/daniel-mar/prem_scrape
 ##### Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
 
 <!--
