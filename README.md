@@ -12,19 +12,20 @@ Project goal: Manipulate and update the HTML elements, practice with algorithms 
 ##### HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
 
 ### Blogpage Design
-##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 Project goal: Provided a UI desktop template, recreate the design using vanilla HTML, CSS
+##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 ##### HTML, CSS: Practiced building out a front-end design from an idea to a website! 
 
-### Prototyping JavaScript  
-##### https://daniel-mar.github.io/video-preview/index.html
+### Prototyping JavaScript
 Project goal: Better understand how to create a draft website in order to practice a functionality
+##### https://daniel-mar.github.io/video-preview/index.html
 HTML, CSS, JavaScript: Testing video functionality: Hover over video to play video and hover out to pause video
 
 ## Python Fullstack Development
+
 ### Part Manager: Repository
-###### https://github.com/daniel-mar/part_manager_oop
 Project goal: To learn about databases, practice full stack development and what to consider when storing web scraped data.
+###### https://github.com/daniel-mar/part_manager_oop
 ##### Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
 
 ### Dynamic YouTube Scraper: Repository
