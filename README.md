@@ -3,6 +3,8 @@ Attending Coding Dojo's Immersive Software Development bootcamp to become an ove
 
 #### Here you'll find a collection of projects and algorithm practice. Algorithms practiced in JavaScript with prompts and sites like CodeWars!
 
+- ⚡ Fun fact: I get a kick out of finding more efficient ways in doing regular things. Especially when I garden! 
+
 # Technical Projects
 ## Frontend Development
 
@@ -50,5 +52,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
