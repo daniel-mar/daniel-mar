@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Daniel Martinez! Self Taught Full Stack Developer
+### Hi there 👋 I'm Daniel Martinez! #### Self Taught Full Stack Developer
 #### Attending Coding Dojo's Immersive FT - Software Development bootcamp while I build personal projects and practice algorithms.
 #### I practice algorithms with JavaScript on my own or using sites such as: 
 #### CodeWars, my current standing <img src="https://www.codewars.com/users/daniel-mar/badges/small">
