@@ -23,6 +23,16 @@ Part Manager - Repository
 https://github.com/daniel-mar/part_manager_oop
 Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
 
+Dynamic YouTube Scraper
+https://github.com/daniel-mar/youtube_popularity_scrape
+Project goal: To traverse YouTube channels based on my desired output of video views, date posted and title.
+Automate and collect data to visualize and discover the channel's video trends to lead to further analysis.
+
+Premiere League Scraper
+
+Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
+The application scrapes HTML for league statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
+
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
