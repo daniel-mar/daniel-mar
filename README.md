@@ -1,5 +1,5 @@
 ### Hello!👋 I'm Daniel Martinez. A painter turned self taught full stack developer
-Attending Coding Dojo's Immersive Software Development bootcamp to become an overall better developer! Practicing the working remote work-flow and responsibilties with the move to virtual. I am passionate about personal growth and continued learning!
+Attending an immersive software development bootcamp to become an overall better developer! Practicing the working remote work-flow and responsibilties with the shift to virtual. I am passionate about using technologies to improve our lives, personal growth and continued learning!
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
