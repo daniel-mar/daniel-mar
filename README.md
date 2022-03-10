@@ -1,21 +1,21 @@
 ### Hello!👋 I'm Daniel Martinez. A painter turned self taught full stack developer
-Attending an immersive software development bootcamp to become an overall better developer! Practicing the working remote work-flow and responsibilties with the shift to virtual. I am passionate about using technologies to improve our lives, personal growth and continued learning!
+Attending an immersive software development bootcamp to become an overall better developer!
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
-- ⚡ Fun fact: I get a kick out of finding more efficient ways in doing regular things. Especially when I garden! 
+- ⚡ Fun fact: I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I garden!
 
 # Frontend Development
 
 ### Graduation Countdown Timer
 ##### https://daniel-mar.github.io/countdown-timer/index.html
-- Project goal: Manipulate and update the HTML elements, practice with algorithms to track current time and a desired time for countdown. 
+- Project goal: Manipulate and update the HTML elements. Create a Timer between current time and my coding bootcamp graduation.
 - HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
 
 ### Blogpage Design
 ##### https://daniel-mar.github.io/unifeed-blog-page/index.html
 - Project goal: Provided a UI desktop template, recreate the design using vanilla HTML, CSS.
-- HTML, CSS: Practiced building out a front-end design from an idea to a website! 
+- HTML, CSS: Practiced building out a front-end design to a website! 
 
 ### Prototyping JavaScript
 ##### https://daniel-mar.github.io/video-preview/index.html
