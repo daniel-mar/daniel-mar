@@ -9,7 +9,7 @@ Attending an immersive software development bootcamp to become an overall better
 
 ### Graduation Countdown Timer
 ##### https://daniel-mar.github.io/countdown-timer/index.html
-- Project goal: Manipulate and update the HTML elements. Create a Timer between current time and my coding bootcamp graduation.
+- Project goal: Manipulate and update the HTML elements. Create a timer between current time and my coding bootcamp graduation.
 - HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
 
 ### Blogpage Design
