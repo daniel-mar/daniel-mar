@@ -3,7 +3,7 @@ Attending an immersive software development bootcamp to become an overall better
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
-- ⚡ Fun fact: I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I garden!
+- ⚡ Fun fact about me: I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I garden!
 
 # Frontend Development
 
