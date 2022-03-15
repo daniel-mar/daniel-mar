@@ -1,5 +1,6 @@
-### Hello!👋 I'm Daniel Martinez. A residential & commercial painter turned self taught full stack engineer
-Attending an immersive software development bootcamp to become an overall better developer!
+### Hello!👋 I'm Daniel Martinez. A residential & commercial painter turned self taught full stack engineer.
+### Attending an immersive software development bootcamp to become an overall better developer!
+I host study sessions & assignment help/debugging via Zoom following our bootcamp lectures throughout the week. 
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
