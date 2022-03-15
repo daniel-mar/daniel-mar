@@ -1,4 +1,4 @@
-### Hello!👋 I'm Daniel Martinez. A painter turned self taught full stack developer
+### Hello!👋 I'm Daniel Martinez. A residential & commercial painter turned self taught full stack developer
 Attending an immersive software development bootcamp to become an overall better developer!
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
