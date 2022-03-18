@@ -1,6 +1,6 @@
 ### Hello!👋 I'm Daniel Martinez. A residential & commercial painter turned self taught full stack engineer!
-### Attending an immersive software development bootcamp to continue to expand my skillset, follow my curiosity and become an overall better developer.
-#### I host study sessions & debugging via Zoom with my cohort mates following our bootcamp lectures. On the weekends as well, with the goal to continously show up for ourselves and work with anyone who is willing to join. Dedicating over 80-90 hours per week towards everything software development.
+### Attending an immersive software development bootcamp to expand my skillset, continue to follow my curiosity and become an overall better developer.
+#### I host study sessions & debugging via Zoom with my cohort mates following our bootcamp lectures. On the weekends as well, with the goal to continously show up for our future selves, understanding that this is a marathon. I have dedicated over 80-90 hours per week towards my bootcamp and everything software development .
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
