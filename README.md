@@ -27,7 +27,7 @@
 # Python Fullstack Development
 
 ### Users CRUD: Repository with GIF demonstration of website with server running.
-###### https://github.com/daniel-mar/user_crud/blob/main/README.md
+###### https://github.com/daniel-mar/user_crud
 - Project goal: Full stack development, from ERD diagram concept to building the front end and back end.
 - HTML, CSS, Bootstrap, Jinja, MySQL. Practice concepts for modularized full stack development to prepare for MERN stack.
 - To continue this project, I pursue login & validation.
