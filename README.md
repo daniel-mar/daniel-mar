@@ -26,15 +26,16 @@
 
 # Python Fullstack Development
 
+### Users CRUD: Repository with GIF demonstration of website with server running.
+###### https://github.com/daniel-mar/user_crud/blob/main/README.md
+- Project goal: Full stack development, from ERD diagram concept to building the front end and back end.
+- HTML, CSS, Bootstrap, Jinja, MySQL. Practice concepts for modularized full stack development to prepare for MERN stack.
+- To continue this project, I pursue login & validation.
+
 ### Part Manager: Repository
 ###### https://github.com/daniel-mar/part_manager_oop
 - Project goal: To learn about databases, practice full stack development and what to consider when storing web scraped data.
 - Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
-
-### Dynamic YouTube Scraper: Repository
-###### https://github.com/daniel-mar/youtube_popularity_scrape
-- Project goal: To traverse YouTube channels based on my desired output of video views, date posted and title.
-- Automate and collect data to visualize and discover the channel's video trends to lead to further analysis.
 
 ### Premiere League Scraper: Repository
 ###### https://github.com/daniel-mar/prem_scrape
