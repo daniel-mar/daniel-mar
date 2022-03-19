@@ -30,7 +30,7 @@
 ###### https://github.com/daniel-mar/user_crud
 - Project goal: Full stack development, from ERD diagram concept to building the front end and back end.
 - HTML, CSS, Bootstrap, Jinja, MySQL. Practice concepts for modularized full stack development to prepare for MERN stack.
-- To continue this project, I pursue login & validation.
+- To continue this project, I may consider a login & validation.
 
 ### Part Manager: Repository
 ###### https://github.com/daniel-mar/part_manager_oop
