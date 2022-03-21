@@ -26,7 +26,12 @@
 
 # Python Fullstack Development
 
-### Users CRUD: Repository with GIF demonstration of website with server running.
+### Dojos and Ninja, CR: One to Many relationship: Repository with GIF demonstration.
+###### https://github.com/daniel-mar/dojos_and_ninjas
+- Project goal: Full stack development, from ERD to building the front end and back end.
+- HTML, CSS Bootstrap, Jinja, MySQL. Practice one to many relationships, add user input validations and redirects if empty. Only allow queries with forms that are completed filled out out. No blank input text fields. Consider adding URL variables for actions methods.
+
+### Users CRUD: Repository with GIF demonstration.
 ###### https://github.com/daniel-mar/user_crud
 - Project goal: Full stack development, from ERD diagram concept to building the front end and back end.
 - HTML, CSS, Bootstrap, Jinja, MySQL. Practice concepts for modularized full stack development to prepare for MERN stack.
