@@ -5,8 +5,8 @@
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
-- ⚡ Fun fact about me: I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I garden!
-- "The more I learn within full stack development & engineering, The more I realize that I still have plenty to learn!" I truly love being able to continously learn & progress in software development.
+- ⚡ Fun facts about me: I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I garden!
+- "The more I learn within full stack development & engineering, The more I realize that I still have plenty to learn!" I truly love being able to continously learn & progress in software development. Willingness to look like a fool, understanding that I may not have the same experience as others.
 
 # Frontend Development
 
