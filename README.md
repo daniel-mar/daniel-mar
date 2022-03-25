@@ -8,24 +8,13 @@
 - ⚡ Fun facts about me: I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I garden!
 - "The more I learn within full stack development & engineering, The more I realize that I still have plenty to learn!" I truly love being able to continously learn & progress in software development. Willingness to look like a fool, understanding that I may not have the same experience as others.
 
-# Frontend Development
-
-### Graduation Countdown Timer
-##### https://daniel-mar.github.io/countdown-timer/index.html
-- Project goal: Manipulate and update the HTML elements. Create a days, hours countdown timer between current time and my coding bootcamp graduation.
-- HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today.
-
-### Blogpage Design
-##### https://daniel-mar.github.io/unifeed-blog-page/index.html
-- Project goal: Provided a UI desktop template, recreate the design using vanilla HTML, CSS.
-- HTML, CSS: Practiced building out a front-end design to a website! 
-
-### Prototyping JavaScript
-##### https://daniel-mar.github.io/video-preview/index.html
-- Project goal: Better understand how to create a draft website in order to practice a functionality.
-- HTML, CSS, JavaScript: Testing video functionality: Hover over video to play video and hover out to pause video.
 
 # Python Fullstack Development
+
+### Recipes, CRUD: Many to Many relationships: Repository
+###### https://github.com/daniel-mar/recipes
+- Project goal: Full stack development from wireframe to completion, practice many to many relationships, custom css & debugging.
+- HTML, CSS Bootstrap, Jinja, MySQL. Create a registration or login wall, on successful login allow the user to create, view, update, delete recipes as well as like a certain recipe. Will add a total likes counter on the view recipe portion to make use of the like functionality.
 
 ### Dojos and Ninja, CR: One to Many relationship: Repository with GIF demonstration.
 ###### https://github.com/daniel-mar/dojos_and_ninjas
@@ -47,6 +36,14 @@
 ###### https://github.com/daniel-mar/prem_scrape
 - Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
 - Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
+
+
+# Frontend Development
+
+### Graduation Countdown Timer
+##### https://daniel-mar.github.io/countdown-timer/index.html
+- Project goal: Manipulate and update the HTML elements. Create a days, hours countdown timer between current time and my coding bootcamp graduation.
+- HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today. I use this as a reminder to continue perservering through interviews. I can and will be a great software engineer and know I will be recognized for my potential. Until then, keep going, keep having fun, and keep showing up.
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
