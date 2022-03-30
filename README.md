@@ -17,7 +17,8 @@
 
 ### Scraping data and displaying online
 ###### https://github.com/daniel-mar/scrape_to_online
--Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
+- Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
+- Scraping the data and displaying the reformatted data in a dynamic table, similar to viewing with pandas as a dataframe. Allows for uploading custom .csv files and viewing your data on a website.
 
 ### Premiere League Scraper: Repository
 ###### https://github.com/daniel-mar/prem_scrape
