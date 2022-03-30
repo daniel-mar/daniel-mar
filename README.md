@@ -15,15 +15,19 @@
 
 # Python Fullstack Development
 
+### Scraping data and displaying online
+###### https://github.com/daniel-mar/scrape_to_online
+-Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
+
+### Premiere League Scraper: Repository
+###### https://github.com/daniel-mar/prem_scrape
+- Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
+- Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
+
 ### Recipes, CRUD: Many to Many relationships: Repository
 ###### https://github.com/daniel-mar/recipes
 - Project goal: Full stack development from wireframe to completion, practice many to many relationships, custom css & debugging.
 - HTML, CSS Bootstrap, Jinja, MySQL. Create a registration or login wall, on successful login allow the user to create, view, update, delete recipes as well as like a certain recipe. Will add a total likes counter on the view recipe portion to make use of the like functionality.
-
-### Dojos and Ninja, CR: One to Many relationship: Repository with GIF demonstration.
-###### https://github.com/daniel-mar/dojos_and_ninjas
-- Project goal: Full stack development, from ERD to building the front end and back end.
-- HTML, CSS Bootstrap, Jinja, MySQL. Practice one to many relationships, add user input validations and redirects if empty. Only allow queries with forms that are completed filled out out. No blank input text fields. Consider adding URL variables for actions methods.
 
 ### Users CRUD: Repository with GIF demonstration.
 ###### https://github.com/daniel-mar/user_crud
@@ -35,15 +39,6 @@
 ###### https://github.com/daniel-mar/part_manager_oop
 - Project goal: To learn about databases, practice full stack development and what to consider when storing web scraped data.
 - Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
-
-### Scraping data and displaying online
-###### https://github.com/daniel-mar/scrape_to_online
--Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
-
-### Premiere League Scraper: Repository
-###### https://github.com/daniel-mar/prem_scrape
-- Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
-- Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
 
 # Frontend Development
 
