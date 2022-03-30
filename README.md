@@ -36,18 +36,21 @@
 - Project goal: To learn about databases, practice full stack development and what to consider when storing web scraped data.
 - Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
 
+### Scraping data and displaying online
+###### https://github.com/daniel-mar/scrape_to_online
+-Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
+
 ### Premiere League Scraper: Repository
 ###### https://github.com/daniel-mar/prem_scrape
 - Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
 - Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
-
 
 # Frontend Development
 
 ### Graduation Countdown Timer
 ##### https://daniel-mar.github.io/countdown-timer/index.html
 - Project goal: Manipulate and update the HTML elements. Create a days, hours countdown timer between current time and my coding bootcamp graduation.
-- HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference in time between my bootcamp graduation and today. I use this as a reminder to continue perservering through interviews. I can and will be a great software engineer and know I will be recognized for my potential. Until then, keep going, keep having fun, and keep showing up.
+- HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference between a target time and current time. I use this as a reminder to continue perservering through interviews. I can and will be a great software engineer and know I will be recognized for my potential. Until then, keep going, keep having fun, and keep showing up.
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
