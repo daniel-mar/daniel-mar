@@ -15,6 +15,12 @@
 
 # Python Fullstack Development
 
+### Scraping to HTML
+###### https://github.com/daniel-mar/scrape_to_html
+- Project goal: One of two projects made in project week, modularize an application in order scrape and display data in a custom website. Practice processing data and pushing to a website to create a custom display of data.
+- Route uses a class that stores scraping information, collects data and display within HTML in Jinja3.
+
+
 ### Scraping data and displaying online
 ###### https://github.com/daniel-mar/scrape_to_online
 - Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
