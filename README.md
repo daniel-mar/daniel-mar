@@ -20,7 +20,6 @@
 - Project goal: One of two projects made in project week, modularize an application in order scrape and display data in a custom website. Practice processing data and pushing to a website to create a custom display of data.
 - Route uses a class that stores scraping information, collects data and display within HTML in Jinja3.
 
-
 ### Scraping data and displaying online
 ###### https://github.com/daniel-mar/scrape_to_online
 - Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
@@ -30,11 +29,6 @@
 ###### https://github.com/daniel-mar/prem_scrape
 - Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
 - Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
-
-### Recipes, CRUD: Many to Many relationships: Repository
-###### https://github.com/daniel-mar/recipes
-- Project goal: Full stack development from wireframe to completion, practice many to many relationships, custom css & debugging.
-- HTML, CSS Bootstrap, Jinja, MySQL. Create a registration or login wall, on successful login allow the user to create, view, update, delete recipes as well as like a certain recipe. Will add a total likes counter on the view recipe portion to make use of the like functionality.
 
 ### Users CRUD: Repository with GIF demonstration.
 ###### https://github.com/daniel-mar/user_crud
@@ -48,6 +42,11 @@
 - Created a small CRUD application. GUI for managing of an exportable part database to keep track of prices from different retailers. 
 
 # Frontend Development
+
+### REACT Portfolio Landing Page
+##### https://github.com/daniel-mar/react-landing-page
+- Project goal: Display the understanding and growth from Vanilla HTML, CSS, JS into incorporating it all with REACT's javascript library.
+- Simple landing page that leads to my different social medias.
 
 ### Graduation Countdown Timer
 ##### https://daniel-mar.github.io/countdown-timer/index.html
