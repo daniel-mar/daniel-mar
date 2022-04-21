@@ -12,6 +12,8 @@
 
 - I truly love being able to continously learn & progress in software development. I know I do not know everything there is today, but it is having that understanding that I know by putting in the effort into learning and creating every day, that I will become a great engineer in this marathon of life.
 
+My current portfolio page: https://daniel-mar.github.io/react-landing-page/
+
 
 # Python Fullstack Development
 
