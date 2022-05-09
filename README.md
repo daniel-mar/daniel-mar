@@ -1,4 +1,4 @@
-### Hello!👋 I'm Daniel Martinez. A residential home-remodelor, painter and carpenter turned self taught full stack developer with the goal to be an engineer!
+### Hello!👋 I'm Daniel Martinez. A residential home-remodelor, painter and carpenter turned full stack coding bootcamp graduate! Striving to be a engineer!
 ### Attending an immersive software development bootcamp to step out of my comfort zone in order to expand my skillset, continue to follow my curiosity and become an overall better developer.
 #### I host study sessions & debugging via Zoom with my cohort mates following our bootcamp lectures and on the weekends as well.
 #### My goal is to continously show up for my future self, understanding that this is a marathon of continous education. I have dedicated over 80-90 hours per week towards my bootcamp and everything software development.
