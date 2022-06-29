@@ -5,20 +5,8 @@ My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 #### I am looking forward to expanding my growth provided by my next immersive software engineering coding boot camp to step out of my comfort zone in order to expand my skillset in DevOps, testing and Java + Spring boot development. Very ecstatic about continuing to follow my curiosity and become an overall better software engineer!
 #### I have hosted study sessions & debugging via Zoom with my cohort mates at Coding Dojo following our bootcamp lectures and on the weekends as well.
 #### My goal is to continously show up for my future self, understanding that this is a marathon of continous education.
-
-### Github repos are being decluttered and reorganized as of June 29, 2022! I will be learning more about different types of project deployment / hosting along side of Machine Learning / AI. I will include actively online and previewable links below.
-
 #### Here are a collection of projects that I've developed throughout my software development journey!
-
-- ⚡ Fun facts about me:
-- I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I am gardening!
-
-- "The more I learn about full stack development & engineering, The more I realize that there is plenty left to learn!"
-
-- I truly love being able to continously learn & progress in software development. I know I do not know everything there is today, but it is having that understanding that I know by putting in the effort into learning and creating every day, that I will become a great engineer in this marathon of life.
-
 # Python Fullstack Development
-
 ### Scraping to HTML
 - Project goal: One of two projects made in project week, modularize an application in order scrape and display data in a custom website. Practice processing data and pushing to a website to create a custom display of data.
 - Route uses a class that stores scraping information, collects data and display within HTML in Jinja3.
@@ -54,6 +42,13 @@ My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 ### Weather Converter
 ##### https://daniel-mar.github.io/dojo-weather/index.html
 - Project goal: Create a website in vanilla HTML, CSS, JavaScript that has default values within a mock city, to utilize functionality of JavaScript to convert values between Fahrenheit and Celcius. Plus practice in wireframe layouts with bootstap.
+
+- ⚡ Fun facts about me:
+- I get a kick out of finding more efficient ways in doing repetitive tasks. Especially when I am gardening!
+
+- "The more I learn about full stack development & engineering, The more I realize that there is plenty left to learn!"
+
+- I truly love being able to continously learn & progress in software development. I know I do not know everything there is today, but it is having that understanding that I know by putting in the effort into learning and creating every day, that I will become a great engineer in this marathon of life.
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
