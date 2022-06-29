@@ -1,6 +1,6 @@
-### Hello!👋 I'm Daniel Martinez. Previously a residential home-remodelor, painter and carpenter turned full stack coding bootcamp graduate! I strive towards continued growth, learning and becoming a first-generation software engineer!
-### Completed Coding Dojo Full Stack Software Development coding bootcamp! Grateful for being able to familiarize myself with 3 tech stacks; Python, C# and MERN!
-### I am looking forward to expanding my growth provided by my next immersive software engineering coding boot camp to step out of my comfort zone in order to expand my skillset in DevOps, testing and Java + Spring boot development. Very ecstatic about continuing to follow my curiosity and become an overall better software engineer!
+### Hello!👋 I'm Daniel Martinez. A home-remodelor, painter and carpenter turned full stack developer! I strive towards continued growth, learning and becoming a first-generation software engineer!
+### Graduated Coding Dojo's Full Stack Software Development coding bootcamp! Familiarized myself in 3 stacks; Python, C# and MERN!
+#### I am looking forward to expanding my growth provided by my next immersive software engineering coding boot camp to step out of my comfort zone in order to expand my skillset in DevOps, testing and Java + Spring boot development. Very ecstatic about continuing to follow my curiosity and become an overall better software engineer!
 #### I have hosted study sessions & debugging via Zoom with my cohort mates at Coding Dojo following our bootcamp lectures and on the weekends as well.
 #### My goal is to continously show up for my future self, understanding that this is a marathon of continous education.
 
