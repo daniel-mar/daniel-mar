@@ -1,4 +1,6 @@
 ### Hello!👋 I'm Daniel Martinez. A home-remodelor, painter and carpenter turned full stack developer! I strive towards continued growth, learning and becoming a first-generation software engineer!
+My current portfolio page: https://daniel-mar.github.io/react-landing-page/
+
 ### Graduated Coding Dojo's Full Stack Software Development coding bootcamp! Familiarized myself in 3 stacks; Python, C# and MERN!
 #### I am looking forward to expanding my growth provided by my next immersive software engineering coding boot camp to step out of my comfort zone in order to expand my skillset in DevOps, testing and Java + Spring boot development. Very ecstatic about continuing to follow my curiosity and become an overall better software engineer!
 #### I have hosted study sessions & debugging via Zoom with my cohort mates at Coding Dojo following our bootcamp lectures and on the weekends as well.
@@ -14,9 +16,6 @@
 - "The more I learn about full stack development & engineering, The more I realize that there is plenty left to learn!"
 
 - I truly love being able to continously learn & progress in software development. I know I do not know everything there is today, but it is having that understanding that I know by putting in the effort into learning and creating every day, that I will become a great engineer in this marathon of life.
-
-My current portfolio page: https://daniel-mar.github.io/react-landing-page/
-
 
 # Python Fullstack Development
 
