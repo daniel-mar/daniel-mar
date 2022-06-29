@@ -53,6 +53,7 @@ My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 - HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference between a target time and current time. I use this as a reminder to continue perservering through interviews. I can and will be a great software engineer and know I will be recognized for my potential. Until then, keep going, keep having fun, and keep showing up.
 
 ### Weather Converter
+##### https://daniel-mar.github.io/dojo-weather/index.html
 - Project goal: Create a website in vanilla HTML, CSS, JavaScript that has default values within a mock city, to utilize functionality of JavaScript to convert values between Fahrenheit and Celcius. Plus practice in wireframe layouts with bootstap.
 
 <!--
