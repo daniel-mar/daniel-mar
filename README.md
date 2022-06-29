@@ -4,7 +4,7 @@
 #### I have hosted study sessions & debugging via Zoom with my cohort mates at Coding Dojo following our bootcamp lectures and on the weekends as well.
 #### My goal is to continously show up for my future self, understanding that this is a marathon of continous education.
 
-# Github repos are being decluttered and reorganized as of June 29, 2022! I will be learning more about different types of project deployment / hosting along side of Machine Learning / AI. I will include actively online and previewable links below.
+### Github repos are being decluttered and reorganized as of June 29, 2022! I will be learning more about different types of project deployment / hosting along side of Machine Learning / AI. I will include actively online and previewable links below.
 
 #### Here are a collection of projects that I've developed throughout my software development journey!
 
