@@ -2,8 +2,7 @@
 My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 
 ### Graduated Coding Dojo's Full Stack Software Development coding bootcamp! Familiarized myself in 3 stacks; Python, C# and MERN!
-#### I am looking forward to expanding my growth provided by stepping out of my comfort zone in order to expand my skillset in DevOps, testing and Java + Spring boot development. Very ecstatic about continuing to follow my curiosity and become an overall better software engineer! 
-#### Also, I will be returning to complete my BSc in Computer Science and will be working towards my Masters in Computer Science soon after.
+### Expanded my growth by stepping out of my comfort zone in order to expand my skillset in DevOps, testing and Java + Spring boot development with Hackbright Academy. Very ecstatic about continuing to follow my curiosity and become an overall better software engineer! 
 #### I have hosted study sessions & debugging via Zoom with my cohort mates at Coding Dojo following our bootcamp lectures and on the weekends as well.
 #### My goal is to continously show up for my future self, understanding that this is a marathon of continous education.
 #### Here are a collection of projects that I've developed throughout my software development journey!
