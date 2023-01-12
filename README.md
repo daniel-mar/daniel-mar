@@ -1,4 +1,5 @@
-### Hello!👋 I'm Daniel Martinez. A home-remodelor, painter and carpenter turned full stack developer! I strive towards continued growth, learning and becoming a first-generation software engineer!
+### Hello!👋 I'm Daniel Martinez, previously a home-remodelor, painter and carpenter turned Software Engineer! I strive towards continued growth, learning and becoming a first-generation software engineer!
+
 My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 
 ### Graduated Coding Dojo's Full Stack Software Development coding bootcamp! Familiarized myself in 3 stacks; Python, C# and MERN!
