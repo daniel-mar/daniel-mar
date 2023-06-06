@@ -1,4 +1,4 @@
-### Hello!👋 I'm Daniel Martinez, previously a home-remodelor, painter and carpenter turned Software Engineer! I strive towards continued growth, learning and becoming a first-generation software engineer!
+### Hello!👋 I'm Daniel Martinez, previously a home-remodelor, painter and carpenter turned Software Engineer! I strive towards continued growth, learning and am a first-generation software engineer at Microsoft!
 
 My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 
