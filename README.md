@@ -15,14 +15,17 @@ My current portfolio page: https://portfolio-danielmar.vercel.app/
 - Route uses a class that stores scraping information, collects data and display within HTML in Jinja3.
 
 ### Scraping data and displaying online
+https://github.com/daniel-mar/full_stack_scrape
 - Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
 - Scraping the data and displaying the reformatted data in a dynamic table, similar to viewing with pandas as a dataframe. Allows for uploading custom .csv files and viewing your data on a website.
 
 ### Premiere League Scraper: Repository
+https://github.com/daniel-mar/league_scraper
 - Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
 - Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
 
-### Users CRUD: Repository with GIF demonstration.
+### Recipes/Users CRUD
+https://github.com/daniel-mar/python-recipes
 - Project goal: Full stack development, from ERD diagram concept to building the front end and back end.
 - HTML, CSS, Bootstrap, Jinja, MySQL. Practice concepts for modularized full stack development to prepare for MERN stack.
 - To continue this project, I may consider a login & validation.
@@ -41,10 +44,6 @@ My current portfolio page: https://portfolio-danielmar.vercel.app/
 ### Weather Converter
 ##### https://daniel-mar.github.io/dojo-weather/index.html
 - Project goal: Create a website in vanilla HTML, CSS, JavaScript that has default values within a mock city, to utilize functionality of JavaScript to convert values between Fahrenheit and Celcius. Plus practice in wireframe layouts with BootstapJs.
-
-### Graduation Countdown Timer
-- Project goal: Manipulate and update the HTML elements. Create a days, hours countdown timer between current time and my coding bootcamp graduation.
-- HTML, CSS, JavaScript: Used JavaScript for calculating and outputting the difference between a target time and current time. One of my first project's in vanilla javascript.
 
 <!--
 **daniel-mar/daniel-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
