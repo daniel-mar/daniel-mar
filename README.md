@@ -26,6 +26,12 @@ https://github.com/daniel-mar/league_scraper
 - Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
 - Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
 
+### C# Full Stack
+https://github.com/daniel-mar/CMeetup
+- Project goal: To create a crud application with login/registration. Reusability of views, creating your schema ahead of time and taking advangtage of EntityFrameworkCore.
+- To create your table and database as per your specifications. The website includes a dashboard to create events for others to join you.
+- Creators can edit and update or remove. While others can join them, while not allowing an overlap in date/time for events.
+
 # Frontend Development
 
 ### REACT Portfolio Landing Page
