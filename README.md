@@ -1,6 +1,6 @@
 ### Hello!👋 I am Daniel Martinez Paiz, previously a home-remodelor, painter and carpenter turned first-generation software engineer! I am searching for the ability to gain professional software engineering experience with a team that loves to mentor and grow together so that I can continue to grow my skillset and help our team progress further! 
 
-My current portfolio page: https://daniel-mar.github.io/react-landing-page/
+My current portfolio page: https://portfolio-danielmar.vercel.app/
 
 ### Familiarized myself in 3 stacks; Python, C# and MERN, with Coding Dojo's Full Stack Software Engineering bootcamp!
 ### Expanded my skillset in DevOps, testing and Java + Spring boot with Hackbright Academy's Full Stack Software Engineering bootcamp. 
@@ -34,7 +34,7 @@ My current portfolio page: https://daniel-mar.github.io/react-landing-page/
 # Frontend Development
 
 ### REACT Portfolio Landing Page
-##### https://github.com/daniel-mar/react-landing-page
+##### Old portfolio: https://github.com/daniel-mar/react-landing-page
 - Project goal: Display the understanding and growth from Vanilla HTML, CSS, JS into incorporating it all with REACT components.
 - Llanding page that leads to my different social medias.
   
