@@ -10,19 +10,10 @@ My current portfolio page: https://portfolio-danielmar.vercel.app/
 #### Here are a collection of personal projects that I've developed throughout my software development journey!
 
 # Python Fullstack Development
-### Scraping to HTML
-- Project goal: One of two projects made in project week, modularize an application in order scrape and display data in a custom website. Practice processing data and pushing to a website to create a custom display of data.
-- Route uses a class that stores scraping information, collects data and display within HTML in Jinja3.
-
 ### Scraping data and displaying online
 https://github.com/daniel-mar/full_stack_scrape
 - Project goal: After collecting data and exporting to .csv. Add dynamic use with JavaScript modules (Papa Parse), allowing for reading of .csv file and generating the table headers and body accordingly. I would like to load the .csv with the page load, or create a dashboard to view multiple files at the same time.
 - Scraping the data and displaying the reformatted data in a dynamic table, similar to viewing with pandas as a dataframe. Allows for uploading custom .csv files and viewing your data on a website.
-
-### Premiere League Scraper: Repository
-https://github.com/daniel-mar/league_scraper
-- Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
-- Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
 
 ### Recipes/Users CRUD
 https://github.com/daniel-mar/python-recipes
@@ -30,9 +21,10 @@ https://github.com/daniel-mar/python-recipes
 - HTML, CSS, Bootstrap, Jinja, MySQL. Practice concepts for modularized full stack development to prepare for MERN stack.
 - To continue this project, I may consider a login & validation.
 
-### Part Manager: Repository
-- Project goal: To learn about databases, practice full stack development and what to consider when storing web scraped data.
-- Created a local CRUD application. GUI for managing of an exportable (.csv) parts database to keep track of prices from different retailers. 
+### Premiere League Scraper: Repository
+https://github.com/daniel-mar/league_scraper
+- Project goal: To collect relavent data and use good practices in collecting of data accurately for data analysis use. 
+- Scrapes HTML for league leaderboard statistics. Processed, cleaned and organized data for ease of use in data analysis. Recently added option for exporting data to .CSV format.
 
 # Frontend Development
 
