@@ -38,6 +38,10 @@ https://github.com/daniel-mar/CMeetup
 ##### Old portfolio: https://github.com/daniel-mar/react-landing-page
 - Project goal: Display the understanding and growth from Vanilla HTML, CSS, JS into incorporating it all with REACT components.
 - Llanding page that leads to my different social medias.
+
+### BMI Calculator
+https://github.com/daniel-mar/BMRCalculator/blob/main/README.md
+- Project goal: Use vanilla Javascript for DOM/html manipulation, use a known algorithm to calculate potential caloric intake for desired weight maintanence.
   
 ### Weather Converter
 ##### https://daniel-mar.github.io/dojo-weather/index.html
