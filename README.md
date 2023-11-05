@@ -1,5 +1,5 @@
 ### Hello!👋 I am Daniel Martinez Paiz, a first-generation software engineer!
-Background: Boot Camp Grad [ Coding Dojo (Python, C# MERN), Hackbright Academy (Java, Java Spring boot, DevOps and Testing) ]
+Background: Boot Camp Grad [ Coding Dojo (Python, C#, MERN), Hackbright Academy (Java, Java Spring boot, DevOps and Testing) ]
 Paused Senior B.S.c in C.S. prior to attending boot camps. Completed A.A.s in I.T. with minor in Cyber Security / Pen Testing.
 
 ## Portfolio Website:
