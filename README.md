@@ -1,11 +1,10 @@
-### Hello!👋 I am Daniel Martinez Paiz, previously a home-remodelor, painter and carpenter turned first-generation software engineer! I am searching for the ability to gain professional software engineering experience with a team that loves to mentor and grow together so that I can continue to grow my skillset and help our team progress further! 
+### Hello!👋 I am Daniel Martinez Paiz, a first-generation software engineer!
+Background: Boot Camp Grad [ Coding Dojo (Python, C# MERN), Hackbright Academy (Java, Java Spring boot, DevOps and Testing) ]
+Paused Senior B.S.c in C.S. prior to attending boot camps. Completed A.A.s in I.T. with minor in Cyber Security / Pen Testing.
 
-My current portfolio page: https://portfolio-danielmar.vercel.app/
+## Portfolio Website:
+### https://portfolio-danielmar.vercel.app/.
 
-### Familiarized myself in 3 stacks; Python, C# and MERN, with Coding Dojo's Full Stack Software Engineering bootcamp!
-### Expanded my skillset in DevOps, testing and Java + Spring boot with Hackbright Academy's Full Stack Software Engineering bootcamp. 
-### I am very ecstatic about continuing to follow my curiosity and become an overall better software engineer! 
-#### My goal is to continously show up for my future self, understanding that this is a marathon of continous education.
 
 #### Here are a collection of personal projects that I've developed throughout my software development journey!
 
@@ -31,6 +30,10 @@ https://github.com/daniel-mar/CMeetup
 - Project goal: To create a crud application with login/registration. Reusability of views, creating your schema ahead of time and taking advangtage of EntityFrameworkCore.
 - To create your table and database as per your specifications. The website includes a dashboard to create events for others to join you.
 - Creators can edit and update or remove. While others can join them, while not allowing an overlap in date/time for events.
+
+https://github.com/daniel-mar/musicShare
+- Project goal: crud full stack app login/reg sharing music that users can like and dislike. Dynamically show on different pages based on different levels of user access to view the relationships on screen via like and dislike buttons.
+- Build this application as practice of how to possible build a blog using a relational database in C# .Net MySQL BootstrapJs
 
 # Frontend Development
 
